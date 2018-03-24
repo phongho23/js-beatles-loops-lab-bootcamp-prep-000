@@ -9,6 +9,7 @@ describe('Beatles Loops', function() {
     const instruments = ["Guitar", "Bass Guitar", "Lead Guitar", "Drums"];
     
 function theBeatlesPlay(musicians, instruments){
-  const beatlesPlay()
+  const beatlesPlay = [];
+  
 }
 
