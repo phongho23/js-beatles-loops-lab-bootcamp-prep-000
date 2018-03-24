@@ -22,9 +22,8 @@ function johnLennonFacts(facts){
   return lennonFacts;
 }
 
-function iLoveTheBeatles(){
+function iLoveTheBeatles(i){
   const beatlesRun = [];
-  let i = 0;
   do {
     beatlesRun.push("I love the Beatles!");
   }
