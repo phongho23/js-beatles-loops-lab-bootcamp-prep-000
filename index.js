@@ -21,7 +21,8 @@ function johnLennonFacts(facts){
   const lennonFacts = [];
   let i = 0;
   while (i < facts.length) {
-    lennonFacts.push(`${facts[i]} + " !!!"`)
+    lennonFacts.push(`${facts[i]}!!!`)
+    i++;
   }
   return lennonFacts;
 }
