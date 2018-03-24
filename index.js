@@ -19,6 +19,9 @@ const facts = [
 
 function johnLennonFacts(){
   let i = 0;
+  while (i < facts.length) {
+    console.log()
+  }
   }
 }
 
