@@ -18,9 +18,10 @@ const facts = [
 ];
 
 function johnLennonFacts(){
+  const lennonFacts = [];
   let i = 0;
   while (i < facts.length) {
-    console.log()
+    lennonFacts.push
   }
   }
 }
