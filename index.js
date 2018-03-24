@@ -23,5 +23,6 @@ function johnLennonFacts(facts){
   while (i < facts.length) {
     lennonFacts.push(`${facts[i]} + " !!!"`)
   }
+  return lennonFacts;
 }
 
