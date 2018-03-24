@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments){
   const beatlesPlay = [];
   
   for (i=0, n=musicians.length; i < n; i++;){
-    console.log("")
+    console.log()
   }
 }
 
