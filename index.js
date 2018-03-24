@@ -22,11 +22,11 @@ function johnLennonFacts(facts){
   return lennonFacts;
 }
 
-function iLoveTheBeatles(i){
+function iLoveTheBeatles(n){
   const beatlesRun = [];
   do {
     beatlesRun.push("I love the Beatles!");
   }
-  while (i<15);
-  i++;
+  while (n<15);
+  n++;
 }
