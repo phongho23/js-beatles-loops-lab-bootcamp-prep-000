@@ -18,8 +18,7 @@ const facts = [
 ];
 
 function johnLennonFacts(){
-  do{
-    const lennonFacts = []
+  let i = 0;
   }
 }
 
