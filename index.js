@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments){
   const beatlesPlay = [];
   
   for (i=0, n=musicians.length; i < n; i++;){
-    beatlesPlay.push(`${musicians[n])
+    beatlesPlay.push(`${musicians[i]} plays ${instruments[i]} )
   }
 }
 
