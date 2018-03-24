@@ -18,7 +18,9 @@ const facts = [
 ];
 
 function johnLennonFacts(){
-  
+  do{
+    const lennonFacts = []
+  }
 }
 
   describe('johnLennonFacts', function(){
