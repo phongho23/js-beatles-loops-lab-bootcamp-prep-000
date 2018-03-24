@@ -7,5 +7,5 @@ describe('Beatles Loops', function() {
   });
   
 
-function theBeatlesPlay()
+function theBeatlesPlay(musicians, instruments)
 
