@@ -11,8 +11,9 @@ describe('Beatles Loops', function() {
 function theBeatlesPlay(musicians, instruments){
   const beatlesPlay = [];
   
-  for (i=0, n=musicians.length; i < n; i++;){
-    beatlesPlay.push(`${musicians[i]} plays ${instruments[i]})
+  for (i=0, n=musicians.length; i < n; i++){
+    beatlesPlay.push(`${musicians[i]} plays ${instruments[i]}`);
     }
+    return beatlesPlay;
 }
 
