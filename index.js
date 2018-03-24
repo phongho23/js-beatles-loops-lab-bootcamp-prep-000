@@ -11,6 +11,6 @@ describe('Beatles Loops', function() {
 function theBeatlesPlay(musicians, instruments){
   const beatlesPlay = [];
   
-  for (i=0, musicians.length)
+  for (i=0, n=musicians.length; i<5)
 }
 
